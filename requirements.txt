@@ -274,7 +274,7 @@ urlgrabber==3.10.1
 urllib3==1.15.1
 -e git+git@github.com:NaiveNeuron/uvvid.git@5800b40168485be8a4752b36b0700fad77e2083b#egg=uvvid
 virtualenv==15.0.3
-waitress==0.8.10
+waitress==1.4.2
 wcwidth==0.1.6
 WebOb==1.5.1
 WebTest==2.0.20
