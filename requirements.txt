@@ -24,7 +24,7 @@ boto==2.39.0
 bottle==0.12.9
 -e git+https://github.com/mrshu/breze.git@54b51248aa5c92df9e2f819a1f217e16fe97c62a#egg=breze
 bz2file==0.98
-CairoSVG==1.0.20
+CairoSVG==2.5.1
 CCColUtils==1.4
 cffi==1.7.0
 characteristic==14.3.0
