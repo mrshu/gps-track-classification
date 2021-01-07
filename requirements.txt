@@ -114,7 +114,7 @@ langtable==0.0.36
 leather==0.3.3
 -e git+git@github.com:mrshu/lemm-sk.git@7f5033509678193c6164f0561fdbea0e86a43956#egg=lemmsk
 lockfile==0.11.0
-lxml==3.7.2
+lxml==4.6.2
 marisa-trie==0.7.2
 Markdown==2.6.5
 MarkupSafe==0.23
