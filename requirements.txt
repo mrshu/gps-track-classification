@@ -76,7 +76,7 @@ guessit==2.0.5
 gyp==0.1
 h5py==2.6.0
 html5lib==0.999
-httplib2==0.9.2
+httplib2==0.19.0
 httpretty==0.8.10
 idna==2.5
 images2gif==1.0.1
