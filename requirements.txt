@@ -213,7 +213,7 @@ pyusb==1.0.0
 pyvim==0.0.13
 pyxattr==0.5.3
 pyxdg==0.25
-PyYAML==3.11
+PyYAML==5.4
 pyzmq==15.3.0
 rarfile==2.8
 rdflib==4.2.1
