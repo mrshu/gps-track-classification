@@ -86,7 +86,7 @@ iniparse==0.4
 ipaddr==2.1.10
 ipaddress==1.0.16
 IPy==0.81
-ipython==4.0.0
+ipython==7.16.3
 ipython-genutils==0.1.0
 irc==13.2
 isodate==0.5.4
