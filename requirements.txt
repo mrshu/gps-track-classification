@@ -220,7 +220,7 @@ rdflib==4.2.1
 readability-lxml==0.6.1
 rebulk==0.7.2
 regex==2017.5.26
-reportlab==3.3.0
+reportlab==3.5.55
 repoze.lru==0.4
 requests==2.10.0
 requests-kerberos==0.10.0
