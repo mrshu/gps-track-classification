@@ -156,7 +156,7 @@ pelican==3.6.3
 pep8==1.7.0
 pexpect==4.2.1
 pickleshare==0.5
-Pillow==3.4.2
+Pillow==9.3.0
 pkginfo==1.2.1
 ply==3.8
 policycoreutils-default-encoding==0.1
